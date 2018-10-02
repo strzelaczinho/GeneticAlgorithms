@@ -1,0 +1,15 @@
+pogoda      temperatura   wilgotnosc wietrznie grac
+slonecznie   goraco         mała       TRUE   nie
+slonecznie   goraco         średnia    TRUE    nie
+slonecznie   goraco         duza       FALSE   nie
+slonecznie   goraco        średnia     TRUE    nie
+slonecznie   goraco         duza       TRUE   nie
+slonecznie   goraco         mała       TRUE    nie
+zimno        goraco         duza       FALSE   nie
+zimno        goraco         mała       TRUE    nie
+slonecznie   goraco         duza       TRUE   nie
+slonecznie   goraco         mała       TRUE    nie
+zimno        goraco         duza       FALSE   nie
+slonecznie   goraco         duza       TRUE    nie
+slonecznie   goraco         mała       TRUE   nie
+slonecznie   goraco         duza       FALSE    nie
